@@ -1,1 +1,3 @@
-print("hello gais")
+print("hello gais!!")
+
+print("ini uji coba tambahan")
